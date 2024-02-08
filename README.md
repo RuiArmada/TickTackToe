@@ -1,1 +1,1 @@
-# YariGame
+# TickTackToe: YariLabs Workshop
